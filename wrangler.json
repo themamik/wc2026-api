@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "wc2026-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "cd77e5a2-0c37-4534-9751-31e4438fea72",
+			"database_name": "wc2026-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
